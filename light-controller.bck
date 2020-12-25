@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LV1T34
+D Logic level translator, single bit
+K logic voltage translator
+$ENDCMP
+#
+$CMP SN74LV1T34DBV
+D Logic level translator, single bit
+K logic voltage translator
+$ENDCMP
+#
+#End Doc Library
